@@ -1,0 +1,1 @@
+import{r as a,q as s}from"./entry.8cba7e1e.js";function c(l){const{images:n,retry:u=3}=l,e=a(0),r=a(u);function o(){if(!n.length)return;const t=new Image;t.src=n[e.value],t.onerror=()=>{if(r.value>0)r.value--;else{if(e.value++,e.value===n.length)return;r.value=u}o()},t.onload=()=>{e.value++,e.value!==n.length&&o()}}s(()=>{o()})}export{c as u};

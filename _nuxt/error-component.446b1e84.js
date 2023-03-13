@@ -1,0 +1,1 @@
+import{c as e,n as o,o as a,a as s}from"./entry.8cba7e1e.js";const t={__name:"error",props:{error:Object},setup(r){return r.error.statusCode==="404"&&(e(),o("/")),(n,p)=>(a(),s("div"))}},i=t;export{i as default};

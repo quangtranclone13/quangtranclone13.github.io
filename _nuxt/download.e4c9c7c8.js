@@ -1,0 +1,1 @@
+import{bH as t}from"./entry.8cba7e1e.js";var e=(o=>(o.SoftwareInfo="/v1/web/software/info",o.SendDownloadEmail="/v1/web/software/send_download_email",o.GetDownloadUrl="/v1/web/software/channel_info",o))(e||{});const r=()=>t.get(e.SoftwareInfo),s=o=>t.post(e.SendDownloadEmail,{email:o}),f=(o,n)=>t.post(e.GetDownloadUrl,{sid:o,software:n});export{r as f,f as g,s};

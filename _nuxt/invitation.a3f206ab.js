@@ -1,0 +1,1 @@
+import{dr as e,aA as t,n as a}from"./entry.8cba7e1e.js";const n=e(()=>{if(!t().query.token)return a("/")});export{n as default};

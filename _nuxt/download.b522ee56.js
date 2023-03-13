@@ -1,0 +1,1 @@
+import{dr as a,aP as o,n as t}from"./entry.8cba7e1e.js";import{a as r}from"./download.e1381952.js";const d=a(()=>{const{isMobile:e}=o();if(!e.value)return t(r)});export{d as default};

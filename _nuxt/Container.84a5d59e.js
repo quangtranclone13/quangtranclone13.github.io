@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.a1a6add7.js";import{o as t,a as n,l as r}from"./entry.8cba7e1e.js";const s={},c={class:"pix-container"};function _(e,a){return t(),n("div",c,[r(e.$slots,"default")])}const i=o(s,[["render",_]]);export{i as default};

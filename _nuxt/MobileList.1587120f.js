@@ -1,0 +1,1 @@
+import{_ as o}from"./MobileList.vue.2428ef90.js";import{_}from"./_plugin-vue_export-helper.a1a6add7.js";import"./start.f747da03.js";import"./entry.8cba7e1e.js";const a=_(o,[["__scopeId","data-v-1898366b"]]);export{a as default};

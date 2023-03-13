@@ -1,0 +1,1 @@
+import{_ as t}from"./PolicyCheckboxDialog.vue.e3938d4d.js";/* empty css                                 */import{a_ as a,X as c}from"./entry.8cba7e1e.js";const s=({submit:e,closeDialog:o})=>{const r=document.createElement("div");a({render(){return c(t,{ref:"policyDialogRef",submit:e,closeDialog:o})}}).mount(r)};export{s as u};
